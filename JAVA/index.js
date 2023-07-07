@@ -22,7 +22,7 @@ form.addEventListener("submit", e => {
 
     } else {
 
-        form.submit();
+        
      /*---------------CALCULO DE LOS TICKETS-------------------------- */
     let cantidad = document.getElementById("cant").value;
     let descuento = document.getElementById("categoria").value;
