@@ -1,0 +1,15 @@
+
+.grosor{
+    width: 100%;
+}
+
+@media (min-width:992px){
+
+
+    .grosor{
+        width: 50%;
+    }
+    
+
+
+}
